@@ -1,0 +1,43 @@
+C:\Users\reina\OneDrive\Documentos\projetos aula\LPV 1\AppAvaliacaoAtividade1\AppAvaliacaoAtividade1\bin\Debug\AppAvaliacaoAtividade1.exe.config
+C:\Users\reina\OneDrive\Documentos\projetos aula\LPV 1\AppAvaliacaoAtividade1\AppAvaliacaoAtividade1\bin\Debug\AppAvaliacaoAtividade1.exe
+C:\Users\reina\OneDrive\Documentos\projetos aula\LPV 1\AppAvaliacaoAtividade1\AppAvaliacaoAtividade1\bin\Debug\AppAvaliacaoAtividade1.pdb
+C:\Users\reina\OneDrive\Documentos\projetos aula\LPV 1\AppAvaliacaoAtividade1\AppAvaliacaoAtividade1\obj\Debug\AppAvaliacaoAtividade1.csproj.AssemblyReference.cache
+C:\Users\reina\OneDrive\Documentos\projetos aula\LPV 1\AppAvaliacaoAtividade1\AppAvaliacaoAtividade1\obj\Debug\AppAvaliacaoAtividade1.csproj.SuggestedBindingRedirects.cache
+C:\Users\reina\OneDrive\Documentos\projetos aula\LPV 1\AppAvaliacaoAtividade1\AppAvaliacaoAtividade1\obj\Debug\AppAvaliacaoAtividade1.Form1.resources
+C:\Users\reina\OneDrive\Documentos\projetos aula\LPV 1\AppAvaliacaoAtividade1\AppAvaliacaoAtividade1\obj\Debug\AppAvaliacaoAtividade1.Properties.Resources.resources
+C:\Users\reina\OneDrive\Documentos\projetos aula\LPV 1\AppAvaliacaoAtividade1\AppAvaliacaoAtividade1\obj\Debug\AppAvaliacaoAtividade1.csproj.GenerateResource.cache
+C:\Users\reina\OneDrive\Documentos\projetos aula\LPV 1\AppAvaliacaoAtividade1\AppAvaliacaoAtividade1\obj\Debug\AppAvaliacaoAtividade1.csproj.CoreCompileInputs.cache
+C:\Users\reina\OneDrive\Documentos\projetos aula\LPV 1\AppAvaliacaoAtividade1\AppAvaliacaoAtividade1\obj\Debug\AppAvaliacaoAtividade1.exe
+C:\Users\reina\OneDrive\Documentos\projetos aula\LPV 1\AppAvaliacaoAtividade1\AppAvaliacaoAtividade1\obj\Debug\AppAvaliacaoAtividade1.pdb
+C:\Users\mymyt\OneDrive\Área de Trabalho\ARQUIVOS - AVALIAÇÃO 1 (1)\ARQUIVOS - AVALIAÇÃO 1\AppAvaliacaoAtividade1\AppAvaliacaoAtividade1\bin\Debug\AppAvaliacaoAtividade1.exe.config
+C:\Users\mymyt\OneDrive\Área de Trabalho\ARQUIVOS - AVALIAÇÃO 1 (1)\ARQUIVOS - AVALIAÇÃO 1\AppAvaliacaoAtividade1\AppAvaliacaoAtividade1\bin\Debug\AppAvaliacaoAtividade1.exe
+C:\Users\mymyt\OneDrive\Área de Trabalho\ARQUIVOS - AVALIAÇÃO 1 (1)\ARQUIVOS - AVALIAÇÃO 1\AppAvaliacaoAtividade1\AppAvaliacaoAtividade1\bin\Debug\AppAvaliacaoAtividade1.pdb
+C:\Users\mymyt\OneDrive\Área de Trabalho\ARQUIVOS - AVALIAÇÃO 1 (1)\ARQUIVOS - AVALIAÇÃO 1\AppAvaliacaoAtividade1\AppAvaliacaoAtividade1\obj\Debug\AppAvaliacaoAtividade1.csproj.AssemblyReference.cache
+C:\Users\mymyt\OneDrive\Área de Trabalho\ARQUIVOS - AVALIAÇÃO 1 (1)\ARQUIVOS - AVALIAÇÃO 1\AppAvaliacaoAtividade1\AppAvaliacaoAtividade1\obj\Debug\AppAvaliacaoAtividade1.Form_Login.resources
+C:\Users\mymyt\OneDrive\Área de Trabalho\ARQUIVOS - AVALIAÇÃO 1 (1)\ARQUIVOS - AVALIAÇÃO 1\AppAvaliacaoAtividade1\AppAvaliacaoAtividade1\obj\Debug\AppAvaliacaoAtividade1.Properties.Resources.resources
+C:\Users\mymyt\OneDrive\Área de Trabalho\ARQUIVOS - AVALIAÇÃO 1 (1)\ARQUIVOS - AVALIAÇÃO 1\AppAvaliacaoAtividade1\AppAvaliacaoAtividade1\obj\Debug\AppAvaliacaoAtividade1.csproj.GenerateResource.cache
+C:\Users\mymyt\OneDrive\Área de Trabalho\ARQUIVOS - AVALIAÇÃO 1 (1)\ARQUIVOS - AVALIAÇÃO 1\AppAvaliacaoAtividade1\AppAvaliacaoAtividade1\obj\Debug\AppAvaliacaoAtividade1.csproj.CoreCompileInputs.cache
+C:\Users\mymyt\OneDrive\Área de Trabalho\ARQUIVOS - AVALIAÇÃO 1 (1)\ARQUIVOS - AVALIAÇÃO 1\AppAvaliacaoAtividade1\AppAvaliacaoAtividade1\obj\Debug\AppAvaliacaoAtividade1.exe
+C:\Users\mymyt\OneDrive\Área de Trabalho\ARQUIVOS - AVALIAÇÃO 1 (1)\ARQUIVOS - AVALIAÇÃO 1\AppAvaliacaoAtividade1\AppAvaliacaoAtividade1\obj\Debug\AppAvaliacaoAtividade1.pdb
+C:\Users\mymyt\OneDrive\Área de Trabalho\ARQUIVOS - AVALIAÇÃO 1 (1)\ARQUIVOS - AVALIAÇÃO 1\AppAvaliacaoAtividade1\AppAvaliacaoAtividade1\obj\Debug\AppAvaliacaoAtividade1.Formularios.FormGerente.resources
+C:\Users\mymyt\OneDrive\Área de Trabalho\ARQUIVOS - AVALIAÇÃO 1 (1)\ARQUIVOS - AVALIAÇÃO 1\AppAvaliacaoAtividade1\AppAvaliacaoAtividade1\obj\Debug\AppAvaliacaoAtividade1.Formularios.FormInicial.resources
+C:\Users\mymyt\OneDrive\Área de Trabalho\ARQUIVOS - AVALIAÇÃO 1 (1)\ARQUIVOS - AVALIAÇÃO 1\AppAvaliacaoAtividade1\AppAvaliacaoAtividade1\obj\Debug\AppAvaliacaoAtividade1.Formularios.FormJunior.resources
+C:\Users\mymyt\OneDrive\Área de Trabalho\ARQUIVOS - AVALIAÇÃO 1 (1)\ARQUIVOS - AVALIAÇÃO 1\AppAvaliacaoAtividade1\AppAvaliacaoAtividade1\obj\Debug\AppAvaliacaoAtividade1.Formularios.FormPadrao.resources
+C:\Users\mymyt\OneDrive\Área de Trabalho\ARQUIVOS - AVALIAÇÃO 1 (1)\ARQUIVOS - AVALIAÇÃO 1\AppAvaliacaoAtividade1\AppAvaliacaoAtividade1\obj\Debug\AppAvaliacaoAtividade1.Formularios.FormSupervisorVendas.resources
+C:\Users\mymyt\OneDrive\Área de Trabalho\ARQUIVOS - AVALIAÇÃO 1 (1)\ARQUIVOS - AVALIAÇÃO 1\AppAvaliacaoAtividade1\AppAvaliacaoAtividade1\obj\Debug\AppAvaliacaoAtividade1.Formularios.FormVendedorMaster.resources
+C:\Users\mymyt\OneDrive\Documentos\03 - FACULDADE\2º PERIODO\L PROGRAMAÇÃO VISUAL 1\AppAvaliacaoAtividade1\AppAvaliacaoAtividade1\bin\Debug\AppAvaliacaoAtividade1.exe.config
+C:\Users\mymyt\OneDrive\Documentos\03 - FACULDADE\2º PERIODO\L PROGRAMAÇÃO VISUAL 1\AppAvaliacaoAtividade1\AppAvaliacaoAtividade1\bin\Debug\AppAvaliacaoAtividade1.exe
+C:\Users\mymyt\OneDrive\Documentos\03 - FACULDADE\2º PERIODO\L PROGRAMAÇÃO VISUAL 1\AppAvaliacaoAtividade1\AppAvaliacaoAtividade1\bin\Debug\AppAvaliacaoAtividade1.pdb
+C:\Users\mymyt\OneDrive\Documentos\03 - FACULDADE\2º PERIODO\L PROGRAMAÇÃO VISUAL 1\AppAvaliacaoAtividade1\AppAvaliacaoAtividade1\obj\Debug\AppAvaliacaoAtividade1.csproj.AssemblyReference.cache
+C:\Users\mymyt\OneDrive\Documentos\03 - FACULDADE\2º PERIODO\L PROGRAMAÇÃO VISUAL 1\AppAvaliacaoAtividade1\AppAvaliacaoAtividade1\obj\Debug\AppAvaliacaoAtividade1.Form_Login.resources
+C:\Users\mymyt\OneDrive\Documentos\03 - FACULDADE\2º PERIODO\L PROGRAMAÇÃO VISUAL 1\AppAvaliacaoAtividade1\AppAvaliacaoAtividade1\obj\Debug\AppAvaliacaoAtividade1.Formularios.FormGerente.resources
+C:\Users\mymyt\OneDrive\Documentos\03 - FACULDADE\2º PERIODO\L PROGRAMAÇÃO VISUAL 1\AppAvaliacaoAtividade1\AppAvaliacaoAtividade1\obj\Debug\AppAvaliacaoAtividade1.Formularios.FormInicial.resources
+C:\Users\mymyt\OneDrive\Documentos\03 - FACULDADE\2º PERIODO\L PROGRAMAÇÃO VISUAL 1\AppAvaliacaoAtividade1\AppAvaliacaoAtividade1\obj\Debug\AppAvaliacaoAtividade1.Formularios.FormJunior.resources
+C:\Users\mymyt\OneDrive\Documentos\03 - FACULDADE\2º PERIODO\L PROGRAMAÇÃO VISUAL 1\AppAvaliacaoAtividade1\AppAvaliacaoAtividade1\obj\Debug\AppAvaliacaoAtividade1.Formularios.FormPadrao.resources
+C:\Users\mymyt\OneDrive\Documentos\03 - FACULDADE\2º PERIODO\L PROGRAMAÇÃO VISUAL 1\AppAvaliacaoAtividade1\AppAvaliacaoAtividade1\obj\Debug\AppAvaliacaoAtividade1.Formularios.FormSupervisorVendas.resources
+C:\Users\mymyt\OneDrive\Documentos\03 - FACULDADE\2º PERIODO\L PROGRAMAÇÃO VISUAL 1\AppAvaliacaoAtividade1\AppAvaliacaoAtividade1\obj\Debug\AppAvaliacaoAtividade1.Formularios.FormVendedorMaster.resources
+C:\Users\mymyt\OneDrive\Documentos\03 - FACULDADE\2º PERIODO\L PROGRAMAÇÃO VISUAL 1\AppAvaliacaoAtividade1\AppAvaliacaoAtividade1\obj\Debug\AppAvaliacaoAtividade1.Properties.Resources.resources
+C:\Users\mymyt\OneDrive\Documentos\03 - FACULDADE\2º PERIODO\L PROGRAMAÇÃO VISUAL 1\AppAvaliacaoAtividade1\AppAvaliacaoAtividade1\obj\Debug\AppAvaliacaoAtividade1.csproj.GenerateResource.cache
+C:\Users\mymyt\OneDrive\Documentos\03 - FACULDADE\2º PERIODO\L PROGRAMAÇÃO VISUAL 1\AppAvaliacaoAtividade1\AppAvaliacaoAtividade1\obj\Debug\AppAvaliacaoAtividade1.csproj.CoreCompileInputs.cache
+C:\Users\mymyt\OneDrive\Documentos\03 - FACULDADE\2º PERIODO\L PROGRAMAÇÃO VISUAL 1\AppAvaliacaoAtividade1\AppAvaliacaoAtividade1\obj\Debug\AppAvaliacaoAtividade1.exe
+C:\Users\mymyt\OneDrive\Documentos\03 - FACULDADE\2º PERIODO\L PROGRAMAÇÃO VISUAL 1\AppAvaliacaoAtividade1\AppAvaliacaoAtividade1\obj\Debug\AppAvaliacaoAtividade1.pdb
